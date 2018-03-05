@@ -20,3 +20,7 @@ essential-scala
 
 target/
 project/target
+
+.project
+.idea
+.gitignore
